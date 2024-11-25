@@ -1,0 +1,3 @@
+F:/student/it3/Podeszwa/Programy/zlomek/cmake-build-debug/CMakeFiles/zlomek.dir
+F:/student/it3/Podeszwa/Programy/zlomek/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/student/it3/Podeszwa/Programy/zlomek/cmake-build-debug/CMakeFiles/rebuild_cache.dir
